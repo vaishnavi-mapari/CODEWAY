@@ -1,2 +1,2 @@
-# CODEWAY Task 1
-complete 2 task of codeway
+# CODEWAY Task 3
+complete task no.3 of codeway
